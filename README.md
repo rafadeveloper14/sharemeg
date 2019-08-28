@@ -22,6 +22,6 @@ Mysql Server<br>
 PHP Support 
 
 
-<h1>ADVISE : </li><br>
+<h1>ADVISE : </h1><br>
 Sharemeg will not work if you remove the copiryght section , we need the copiryght section to promote our work and to have more people sharing improvements to this project.
 

@@ -12,7 +12,8 @@ You can see the features above : <ul>
   <li>Totally Opensource</li>
   <li>Users Profile & Block (coming soon)</li>
   <li>Oauth integrations like Steam,Google,Github,Facebook,Twitter</li>
-  <li>Modern Design</li></ul>
+  <li>Modern Design</li>
+  <li>Built with Bootstrap</li></ul>
 
 <br><br>
 
